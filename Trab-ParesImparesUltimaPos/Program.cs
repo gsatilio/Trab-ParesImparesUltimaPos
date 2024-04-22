@@ -34,7 +34,7 @@ while (true)
         }
     }
     Console.WriteLine();
-    Console.WriteLine($"O numero que ocupa a primeira posicao eh: {numeros[0]} e o numero que ocupa a ultima posicao eh: {numeros[4]}");
+    Console.WriteLine($"O numero que ocupa a primeira posicao eh: {numeros[0]} e o numero que ocupa a ultima posicao eh: {numeros[9]}");
 
     Console.ReadLine();
     Console.Clear();
